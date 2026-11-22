@@ -21,3 +21,5 @@ No GitHub, com Actions habilitado e permissão de escrita na branch padrão, o f
 ## Fonte
 
 Consulte o [catálogo de playlists do iptv-org](https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md). Este projeto distribui uma lista de endereços. As transmissões são fornecidas pelos respectivos servidores.
+
+[Contribua com meu trabalho](./contribua-com-meu-trabalho/)
