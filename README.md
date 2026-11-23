@@ -10,6 +10,10 @@ Cole este endereço na opção de abrir um fluxo de rede do VLC ou no campo de p
 https://raw.githubusercontent.com/AlanDlon/iptv-brasil/main/brasil.m3u
 ```
 
+## Premiere
+
+Os jogos estão disponíveis para assinantes na [programação oficial do Premiere no Globoplay](https://globoplay.globo.com/canais/premiere/). Os sinais cadastrados entram na playlist M3U quando o iptv-org disponibiliza o respectivo endereço na lista do Brasil.
+
 ## Cobertura e atualização
 
 A lista inclui todos os sinais em que o identificador do iptv-org corresponde a uma emissora do [catálogo de classificação](./canais.csv). Cada registro contém o grupo e a referência consultada. Rádios, canais exclusivos de streaming e entradas sem classificação ficam fora da playlist. Uma emissora pode ter vários sinais. A reprodução depende do endereço publicado pela fonte, da região e das condições de acesso da emissora.
